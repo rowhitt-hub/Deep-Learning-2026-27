@@ -28,3 +28,5 @@ Implementation of a **Single Layer Perceptron** from scratch using Python, witho
    github.com
    with
    githubtocolab.com
+3. Press **Enter** to open the notebook directly in **Google Colab**.
+4. Run all cells in order.
