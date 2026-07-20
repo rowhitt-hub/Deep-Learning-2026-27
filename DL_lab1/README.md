@@ -25,3 +25,6 @@ Implementation of a **Single Layer Perceptron** from scratch using Python, witho
 
 1. Open this repository on GitHub.
 2. In the URL, replace:
+   github.com
+   with
+   githubtocolab.com
