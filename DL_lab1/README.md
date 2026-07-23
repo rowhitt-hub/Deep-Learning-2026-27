@@ -1,6 +1,6 @@
 # Experiment: Single Layer Perceptron
 
-Implementation of a **Single Layer Perceptron** from scratch using Python, without relying on machine learning libraries for the model implementation.
+Implementation of a **Single Layer Perceptron** from scratch.
 
 ---
 
@@ -29,4 +29,5 @@ Implementation of a **Single Layer Perceptron** from scratch using Python, witho
    with
    githubtocolab.com
 3. Press **Enter** to open the notebook directly in **Google Colab**.
-4. Run all cells in order.
+4. Uncomment the **files.upload()** cell.
+5. Run all cells in order.
