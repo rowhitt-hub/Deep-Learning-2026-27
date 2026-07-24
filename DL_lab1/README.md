@@ -25,9 +25,9 @@ Implementation of a **Single Layer Perceptron** from scratch.
 
 1. Open this repository on GitHub.
 2. In the URL, replace:
-   github.com
-   with
-   githubtocolab.com
+`github.com`
+with
+`githubtocolab.com`
 3. Press **Enter** to open the notebook directly in **Google Colab**.
 4. Uncomment the **files.upload()** cell.
 5. Run all cells in order.
