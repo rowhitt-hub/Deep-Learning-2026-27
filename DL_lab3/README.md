@@ -31,9 +31,6 @@ Implementation of a **Convolutional Neural Network (CNN)** on the **CIFAR-10** d
 
 ---
 
-## **Important Note**
-
-The default/latest version of **scikit-learn** in Google Colab is not compatible with **SciKeras**. To ensure compatibility with hyperparameter tuning using `RandomizedSearchCV`, the notebook installs a compatible lower version of **scikit-learn** before execution.
 
 ---
 
@@ -50,6 +47,3 @@ The default/latest version of **scikit-learn** in Google Colab is not compatible
 
 ---
 
-## **Additional Task**
-
-The notebook includes hyperparameter tuning of the CNN architecture using **SciKeras** and **RandomizedSearchCV** to identify an optimal combination of convolutional layers, filter sizes, dense layer configuration, activation functions, optimizers, learning rates, dropout rates, batch sizes, and training epochs for improved classification performance.
